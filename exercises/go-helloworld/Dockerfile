@@ -4,7 +4,7 @@ WORKDIR /go/src/app
 
 ADD . .
 
-RUN ["go", "mod", "init", "main"]
+RUN ["go", "mod", "init"]
 
 RUN ["go", "mod", "tidy"]
 
