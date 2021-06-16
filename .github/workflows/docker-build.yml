@@ -1,5 +1,5 @@
 ##  Named of the workflow.
-name: Python version
+name: Docker build
 ## Set the trigger policy.
 ## In this case, the workflow is execute on a `push` event,
 ## or when a new commit is pushed to the repository
