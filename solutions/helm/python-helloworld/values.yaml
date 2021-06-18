@@ -2,7 +2,7 @@ namespace:
   name: test
  
 image:
-  repository: pixelpotato/python-helloworld 
-  tag: v1.0.0
+  repository: udoyen/python-helloworld 
+  tag: latest
 
 replicaCount: 3
