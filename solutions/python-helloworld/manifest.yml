@@ -1,0 +1,8 @@
+applications:
+- name: GetStartedPython
+  buildpacks:
+  - python_buildpack
+  random-route: true
+  command: python3 app.py
+  memory: 128M
+
